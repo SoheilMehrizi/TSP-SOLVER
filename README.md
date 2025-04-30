@@ -12,7 +12,7 @@ Optimization: Applies simulated annealing to optimize the initial TSP solution.
 
 ## Project Structure
 
-│
+
 ├── README.md                  # Project documentation
 ├── main_lab.ipynb             # Main lab for preparing the generated data and solving TSP using heuristic algorithms .
 ├──data/
